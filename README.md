@@ -1,2 +1,2 @@
 # myRepo
-just a repository
+This is readme.md file
